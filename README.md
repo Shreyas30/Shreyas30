@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas30&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas30" /> </p>
 
-- 🌱 I’m currently learning **Blockchain and Docker**
-
-- 💬 Ask me about **React, Django, Flask, Node**
+- 💬 I'm Proficient in **React, Django, Flask, Node**
 
 - 📫 How to reach me **jshreyas12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nAZO6RqhvKlC9ovSBYUUG133C49dtlkH/view](https://drive.google.com/file/d/1nAZO6RqhvKlC9ovSBYUUG133C49dtlkH/view)
+- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1nAZO6RqhvKlC9ovSBYUUG133C49dtlkH/view)**
+
+- 🌱 I’m currently learning **Blockchain and Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
