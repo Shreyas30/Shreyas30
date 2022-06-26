@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=shreyas30&label=Profile%20views&color=0e75b6&style=flat"
         alt="shreyas30" />
 </p>
-<h2 align="left" style="font-weight:600; "> 👨🏼‍💻 About Me:</h2>
+<h3 align="left" style="font-weight:600; "> 👨🏼‍💻 About Me:</h3>
 
 - 💬 I'm Proficient in **React, Django, Flask, Node** 
 
@@ -30,7 +30,7 @@
 
 ---
 <br>
-<h2 align="left" style="font-weight:600; ">🌟 Coding Platforms:</h2>
+<h3 align="left" style="font-weight:600; ">🌟 Coding Platforms:</h3>
 <p align="left">
      <abbr style="text-decoration:none"  title="Codeshef"><a href="https://www.codechef.com/users/shreyas30" target="blank"><img align="center" src="icons/codeshef.png"
             alt="https://www.codechef.com/users/shreyas30" height="30" width="70" /></a></abbr> &ensp;
@@ -42,7 +42,7 @@
 
 <br>
 
-<h2 align="left" style="font-weight:600; ">📖 Languages:</h2>
+<h3 align="left" style="font-weight:600; ">📖 Languages:</h3>
 <p align="left">
      <abbr style="text-decoration:none"  title="C Language"><a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="icons/c.svg"
@@ -72,7 +72,7 @@
 </p>
 
 <br>
-<h2 align="left" style="font-weight:600; ">🛠️ Frameworks and Tools:</h2>
+<h3 align="left" style="font-weight:600; ">🛠️ Frameworks and Tools:</h3>
 <p align="left">
      <abbr style="text-decoration:none"  title="Reactjs"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="icons/react.png"
@@ -113,7 +113,7 @@
 ---
 
 <br>
-<h2 align="left" style="font-weight:600; "> 📊 My Stats:</h2>
+<h3 align="left" style="font-weight:600; "> 📊 My Stats:</h3>
 <br>
 <p align="left">
     <img align="center"
