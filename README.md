@@ -29,7 +29,6 @@
 - 🌱 I’m currently learning **Blockchain and Docker** 
 
 ---
-<br>
 <h3 align="left" style="font-weight:600; ">🌟 Coding Platforms:</h3>
 <p align="left">
      <abbr style="text-decoration:none"  title="Codeshef"><a href="https://www.codechef.com/users/shreyas30" target="blank"><img align="center" src="icons/codeshef.png"
@@ -39,8 +38,6 @@
      <abbr style="text-decoration:none"  title="Leetcode"><a href="https://www.leetcode.com/jshreyas12/" target="blank"><img align="center" src="icons/leetcode.svg"
             alt="https://leetcode.com/jshreyas12/" height="30" width="50" /></a></abbr>
 </p>
-
-<br>
 
 <h3 align="left" style="font-weight:600; ">📖 Languages:</h3>
 <p align="left">
@@ -71,7 +68,6 @@
 
 </p>
 
-<br>
 <h3 align="left" style="font-weight:600; ">🛠️ Frameworks and Tools:</h3>
 <p align="left">
      <abbr style="text-decoration:none"  title="Reactjs"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -108,11 +104,9 @@
             alt="mysql" width="50" height="50" />
     </a></abbr>
 </p>
-<br>
 
 ---
 
-<br>
 <h3 align="left" style="font-weight:600; "> 📊 My Stats:</h3>
 <br>
 <p align="left">
